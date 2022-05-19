@@ -1,0 +1,24 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  grid-template-columns: 100%;
+  grid-auto-rows: 100px;
+  display: grid;
+  font-family: Verdana;
+}
+
+h1, p {
+  margin-top: 0px;
+  height: 100px;
+  width: 100%;
+}
+
+h1 {
+  background-color: blanchedalmond;
+  padding-top: 25px; 
+}
+
+p {
+  background-color: aliceblue;
+  padding-top: 70px;
+}
